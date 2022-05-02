@@ -1,1 +1,1 @@
-# vorx-jenkins-server
+# vorx-pointer-app
